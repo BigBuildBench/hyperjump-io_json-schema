@@ -1,0 +1,18 @@
+{
+  "#": {
+    "errors": {},
+    "annotations": {}
+  },
+  "#/foo": {
+    "errors": {},
+    "annotations": {}
+  },
+  "#/bar": {
+    "errors": {},
+    "annotations": {
+      "https://json-schema.org/keyword/title": {
+        "https://bundler.hyperjump.io/number#": "Number"
+      }
+    }
+  }
+}

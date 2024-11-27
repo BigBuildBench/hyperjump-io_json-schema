@@ -1,0 +1,12 @@
+{
+  "#": {
+    "errors": {
+      "https://bundler.hyperjump.io/string#": "https://json-schema.org/evaluation/validate"
+    },
+    "annotations": {
+      "https://json-schema.org/keyword/title": {
+        "https://bundler.hyperjump.io/string#": "String"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "#": {
+    "errors": {},
+    "annotations": {}
+  },
+  "#/0": {
+    "errors": {},
+    "annotations": {
+      "https://json-schema.org/keyword/title": {
+        "https://bundler.hyperjump.io/string#": "String"
+      }
+    }
+  }
+}

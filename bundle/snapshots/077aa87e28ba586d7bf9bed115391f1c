@@ -1,0 +1,8 @@
+{
+  "#": {
+    "errors": {
+      "https://bundler.hyperjump.io/main#/if": "https://json-schema.org/evaluation/validate"
+    },
+    "annotations": {}
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "#": {
+    "errors": {
+      "https://test.json-schema.org/list#/items": "https://json-schema.org/keyword/items",
+      "https://test.json-schema.org/list#": "https://json-schema.org/evaluation/validate",
+      "https://bundler.hyperjump.io/main#/$ref": "https://json-schema.org/keyword/ref",
+      "https://bundler.hyperjump.io/main#": "https://json-schema.org/evaluation/validate"
+    },
+    "annotations": {}
+  },
+  "#/0": {
+    "errors": {
+      "https://bundler.hyperjump.io/main#/$defs/element/type": "https://json-schema.org/keyword/type",
+      "https://bundler.hyperjump.io/main#/$defs/element": "https://json-schema.org/evaluation/validate",
+      "https://test.json-schema.org/list#/items/$dynamicRef": "https://json-schema.org/keyword/draft-2020-12/dynamicRef",
+      "https://test.json-schema.org/list#/items": "https://json-schema.org/evaluation/validate"
+    },
+    "annotations": {}
+  }
+}

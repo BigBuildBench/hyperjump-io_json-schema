@@ -1,0 +1,10 @@
+{
+    "$ref": "#/$defs/inner",
+    "$defs": {
+        "inner": {
+            "properties": {
+                "bar": { "type": "string" }
+            }
+        }
+    }
+}

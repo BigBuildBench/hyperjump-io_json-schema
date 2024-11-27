@@ -1,0 +1,25 @@
+{
+  "#": {
+    "errors": {
+      "https://bundler.hyperjump.io/main#/properties": "https://json-schema.org/keyword/properties",
+      "https://bundler.hyperjump.io/main#": "https://json-schema.org/evaluation/validate"
+    },
+    "annotations": {}
+  },
+  "#/foo": {
+    "errors": {
+      "https://test.json-schema.org/tuple#/items": "https://json-schema.org/keyword/draft-04/items",
+      "https://test.json-schema.org/tuple#": "https://json-schema.org/evaluation/validate",
+      "https://bundler.hyperjump.io/main#/properties/foo/$ref": "https://json-schema.org/keyword/ref",
+      "https://bundler.hyperjump.io/main#/properties/foo": "https://json-schema.org/evaluation/validate"
+    },
+    "annotations": {}
+  },
+  "#/foo/0": {
+    "errors": {
+      "https://test.json-schema.org/tuple#/items/0/type": "https://json-schema.org/keyword/type",
+      "https://test.json-schema.org/tuple#/items/0": "https://json-schema.org/evaluation/validate"
+    },
+    "annotations": {}
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "#": {
+    "errors": {},
+    "annotations": {}
+  },
+  "#/foo": {
+    "errors": {},
+    "annotations": {}
+  },
+  "#/foo/0": {
+    "errors": {},
+    "annotations": {}
+  }
+}

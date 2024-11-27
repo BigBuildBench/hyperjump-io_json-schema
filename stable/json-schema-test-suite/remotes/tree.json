@@ -1,0 +1,13 @@
+{
+    "description": "tree schema, extensible",
+    "$dynamicAnchor": "node",
+
+    "type": "object",
+    "properties": {
+        "data": true,
+        "children": {
+            "type": "array",
+            "items": { "$dynamicRef": "node" }
+        }
+    }
+}

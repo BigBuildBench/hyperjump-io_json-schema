@@ -1,0 +1,15 @@
+{
+  "#": {
+    "errors": {
+      "https://bundler.hyperjump.io/main#/conditional/1/maxLength": "https://json-schema.org/keyword/maxLength",
+      "https://bundler.hyperjump.io/main#/conditional/1": "https://json-schema.org/evaluation/validate",
+      "https://bundler.hyperjump.io/main#/conditional": "https://json-schema.org/keyword/conditional",
+      "https://bundler.hyperjump.io/main#": "https://json-schema.org/evaluation/validate"
+    },
+    "annotations": {
+      "https://json-schema.org/keyword/title": {
+        "https://bundler.hyperjump.io/string#": "String"
+      }
+    }
+  }
+}

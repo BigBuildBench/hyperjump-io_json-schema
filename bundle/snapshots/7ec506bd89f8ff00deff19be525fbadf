@@ -1,0 +1,20 @@
+{
+  "#": {
+    "errors": {
+      "https://bundler.hyperjump.io/main#/contains": "https://json-schema.org/keyword/draft-06/contains",
+      "https://bundler.hyperjump.io/main#": "https://json-schema.org/evaluation/validate"
+    },
+    "annotations": {}
+  },
+  "#/0": {
+    "errors": {
+      "https://bundler.hyperjump.io/string#/type": "https://json-schema.org/keyword/type",
+      "https://bundler.hyperjump.io/string#": "https://json-schema.org/evaluation/validate"
+    },
+    "annotations": {
+      "https://json-schema.org/keyword/title": {
+        "https://bundler.hyperjump.io/string#": "String"
+      }
+    }
+  }
+}

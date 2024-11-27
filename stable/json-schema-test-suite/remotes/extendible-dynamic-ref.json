@@ -1,0 +1,14 @@
+{
+    "description": "extendible array",
+    "type": "object",
+    "properties": {
+        "elements": {
+            "type": "array",
+            "items": {
+                "$dynamicRef": "elements"
+            }
+        }
+    },
+    "required": ["elements"],
+    "additionalProperties": false
+}

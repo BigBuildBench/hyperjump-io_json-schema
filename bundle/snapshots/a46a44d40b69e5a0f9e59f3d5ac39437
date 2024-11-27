@@ -1,0 +1,14 @@
+{
+  "#": {
+    "errors": {
+      "https://bundler.hyperjump.io/main#/then/maxLength": "https://json-schema.org/keyword/maxLength",
+      "https://bundler.hyperjump.io/main#/then": "https://json-schema.org/keyword/then",
+      "https://bundler.hyperjump.io/main#": "https://json-schema.org/evaluation/validate"
+    },
+    "annotations": {
+      "https://json-schema.org/keyword/title": {
+        "https://bundler.hyperjump.io/string#": "String"
+      }
+    }
+  }
+}

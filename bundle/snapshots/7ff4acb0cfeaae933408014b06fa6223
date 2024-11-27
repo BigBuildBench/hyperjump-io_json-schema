@@ -1,0 +1,27 @@
+{
+  "#": {
+    "errors": {
+      "https://bundler.hyperjump.io/main#/properties": "https://json-schema.org/keyword/properties",
+      "https://bundler.hyperjump.io/main#": "https://json-schema.org/evaluation/validate"
+    },
+    "annotations": {}
+  },
+  "#/tree": {
+    "errors": {
+      "https://test.json-schema.org/tree#/properties": "https://json-schema.org/keyword/properties",
+      "https://test.json-schema.org/tree#": "https://json-schema.org/evaluation/validate"
+    },
+    "annotations": {}
+  },
+  "#/tree/leaf": {
+    "errors": {},
+    "annotations": {}
+  },
+  "#/tree/branch": {
+    "errors": {
+      "https://test.json-schema.org/tree#/type": "https://json-schema.org/keyword/type",
+      "https://test.json-schema.org/tree#": "https://json-schema.org/evaluation/validate"
+    },
+    "annotations": {}
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "$defs": {
+        "integer": { "type": "integer" },
+        "refToInteger": { "$ref": "#/$defs/integer" }
+    }
+}
